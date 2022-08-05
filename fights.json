@@ -1,0 +1,34 @@
+{
+  "league_list": [
+    "MeliodasBRXXX",
+    "Eto_yoshimura",
+    "seuyagolindo",
+    "alexhwrt",
+    "DAVIDRAGONBLACK",
+    "lauroarturdesa33",
+    "FL4_GOJO",
+    "Thanatin01"
+  ],
+  "fights": [
+    [
+      "MeliodasBRXXX",
+      "vs",
+      "DAVIDRAGONBLACK"
+    ],
+    [
+      "Thanatin01",
+      "vs",
+      "Eto_yoshimura"
+    ],
+    [
+      "FL4_GOJO",
+      "vs",
+      "seuyagolindo"
+    ],
+    [
+      "alexhwrt",
+      "vs",
+      "lauroarturdesa33"
+    ]
+  ]
+}
